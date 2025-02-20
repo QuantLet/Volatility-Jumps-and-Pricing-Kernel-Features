@@ -1,0 +1,11 @@
+Name of Quantlet: Volatility Jumps and Pricing Kernel Features: A Study Comparing the Classical and CDI Estimation Method 
+
+Published in: 'Volatility-Jumps-and-Pricing-Kernel-Features'
+
+Description: This study explores the impact of volatility jumps on the classical and conditional density integration pricing kernel shape.
+
+Keywords: pricing kernel, CDI, volatility jumps
+
+Author: Levin Schach
+
+Submitted: 20.02.2025
