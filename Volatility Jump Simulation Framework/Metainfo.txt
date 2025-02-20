@@ -1,0 +1,11 @@
+Name of Quantlet: Volatility Jumps and Pricing Kernel Features: A Study Comparing the Classical and CDI Estimation Method 
+
+Published in: 'Volatility-Jumps-and-Pricing-Kernel-Features'
+
+Description: This tool simulates a price path and prices options using user-defined parameters. Based on this data the RND, HD and EPK can be estimated for each day. Based on the simulated variables files for the CDI and CI band calculations are created.
+
+Keywords: pricing kernel, CDI, volatility jumps
+
+Author: Levin Schach
+
+Submitted: 20.02.2025
