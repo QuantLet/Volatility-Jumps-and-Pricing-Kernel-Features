@@ -1,0 +1,11 @@
+Name of Quantlet: Volatility Jumps and Pricing Kernel Features: A Study Comparing the Classical and CDI Estimation Method 
+
+Published in: 'Volatility-Jumps-and-Pricing-Kernel-Features'
+
+Description: This file estimates the CDI pricing kernel based on the simulated options data. The code was provided by Linn et al., which I extended to work with the simulation framework.
+
+Keywords: pricing kernel, CDI, volatility jumps
+
+Author: Levin Schach
+
+Submitted: 20.02.2025
